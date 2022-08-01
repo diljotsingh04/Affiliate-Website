@@ -58,7 +58,7 @@
         "image": "https://m.media-amazon.com/images/I/81q1-5edHwL._UL1500_.jpg",
         "name" : "Nike 2",
         "brand": "Puma",
-        "category" : "shoes",
+        "category" : "shirt",
         "price": "$12000",
         "description": "Image result for puma shoes description Puma SE, branded as Puma, is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel and accessories, which is headquartered in Herzogenaurach, Bavaria, Germany. Puma is the third largest sportswear manufacturer in the world."
     },
@@ -67,7 +67,7 @@
         "image": "https://rukminim1.flixcart.com/image/332/398/xif0q/fabric/p/e/7/no-2-35-m-unstitched-na-briead-and-fox-trijal-fab-original-imag6g28rmfhhxkd-bb.jpeg?q=50",
         "name" : "Nike 2",
         "brand": "Puma",
-        "category" : "shoes",
+        "category" : "shirt",
         "price": "$12000",
         "description": "Image result for puma shoes description Puma SE, branded as Puma, is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel and accessories, which is headquartered in Herzogenaurach, Bavaria, Germany. Puma is the third largest sportswear manufacturer in the world."
     },{
@@ -75,7 +75,7 @@
         "image": "https://cdn.shopify.com/s/files/1/0079/6698/2262/products/ALBERS-MENS-VERTICAL-STRIPE-SHIRT-IN-NAVY_600x.jpg?v=1581956023",
         "name" : "Nike 2",
         "brand": "Puma",
-        "category" : "shoes",
+        "category" : "shirt",
         "price": "$12000",
         "description": "Image result for puma shoes description Puma SE, branded as Puma, is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel and accessories, which is headquartered in Herzogenaurach, Bavaria, Germany. Puma is the third largest sportswear manufacturer in the world."
     },{
@@ -83,7 +83,7 @@
         "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mh-1-4-shirts-1641412573.png?crop=0.502xw:1.00xh;0,0&resize=640:*",
         "name" : "Nike 2",
         "brand": "Puma",
-        "category" : "shoes",
+        "category" : "shirt",
         "price": "$12000",
         "description": "Image result for puma shoes description Puma SE, branded as Puma, is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel and accessories, which is headquartered in Herzogenaurach, Bavaria, Germany. Puma is the third largest sportswear manufacturer in the world."
     },{
@@ -91,7 +91,7 @@
         "image": "data:image/jpeg;base64,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",
         "name" : "Nike 2",
         "brand": "Puma",
-        "category" : "shoes",
+        "category" : "mugs",
         "price": "$12000",
         "description": "Image result for puma shoes description Puma SE, branded as Puma, is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel and accessories, which is headquartered in Herzogenaurach, Bavaria, Germany. Puma is the third largest sportswear manufacturer in the world."
     },{
@@ -99,7 +99,7 @@
         "image": "https://rukminim1.flixcart.com/image/416/416/mug/k/h/g/1-shopmantra-programmer-coffee-code-original-imae4f5ka49zmg2e.jpeg?q=70",
         "name" : "Nike 2",
         "brand": "Puma",
-        "category" : "shoes",
+        "category" : "mugs",
         "price": "$12000",
         "description": "Image result for puma shoes description Puma SE, branded as Puma, is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel and accessories, which is headquartered in Herzogenaurach, Bavaria, Germany. Puma is the third largest sportswear manufacturer in the world."
     },{
@@ -107,17 +107,26 @@
         "image": "https://cdn.shopify.com/s/files/1/1719/2105/products/debugging-definition-mug-funny-it-programming-coding-code-programmer-coffee-cup-drinkware-teelaunch-black-389004.png?v=1552995561",
         "name" : "Nike 2",
         "brand": "Puma",
-        "category" : "shoes",
+        "category" : "mugs",
         "price": "$12000",
         "description": "Image result for puma shoes description Puma SE, branded as Puma, is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel and accessories, which is headquartered in Herzogenaurach, Bavaria, Germany. Puma is the third largest sportswear manufacturer in the world."
     },
     {
         "id":14,
+        "image": "https://international.iitkgp.ac.in/static/website/img/BrandStore/Products/Premium%20tees%20Image.jpg",
+        "name" : "Nike 2",
+        "brand": "Puma",
+        "category" : "shirt",
+        "price": "$12000",
+        "description": "Image result for puma shoes description Puma SE, branded as Puma, is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel and accessories, which is headquartered in Herzogenaurach, Bavaria, Germany. Puma is the third largest sportswear manufacturer in the world."
+    },   
+    {
+        "id":15,
         "image": "https://cdn.quotesgram.com/img/23/4/1846276692-funny_programming_quote_mug-rf9a202676def441f872a8cff1b11f27d_x7jgr_8byvr_324.jpg",
         "name" : "Nike 2",
         "brand": "Puma",
-        "category" : "shoes",
-        "price": "$12000",
-        "description": "Image result for puma shoes description Puma SE, branded as Puma, is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel and accessories, which is headquartered in Herzogenaurach, Bavaria, Germany. Puma is the third largest sportswear manufacturer in the world."
+        "category" : "mugs",
+        "price": "$500",
+        "description": "this is descrioption"
     }   
 ]

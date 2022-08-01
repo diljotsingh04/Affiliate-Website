@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <>
         <nav style={{"position": "fixed"}}>
-            <div className="logo"><a href="/"  style={{"text-decoration": "none", "color": "white"}}> Diljot S </a></div>
+            <div className="logo"><a href="/"  style={{"textDecoration": "none", "color": "white"}}> Diljot S </a></div>
             <input type="checkbox" id="click"/>
             <label htmlFor="click" className="menu-btn">
             <i >=</i>
