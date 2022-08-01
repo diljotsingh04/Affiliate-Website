@@ -10,7 +10,7 @@ nav{
     display: flex;
     top: 0;
     height: 80px;
-    width: 91%;
+    width: 92%;
     background: #0ca2ff;
     align-items: center;
     justify-content: space-between;
@@ -51,6 +51,10 @@ nav{
     font-size: 22px;
     cursor: pointer;
     display: none;
+
+  }
+  i{
+    margin-right: 44px;
   }
   input[type="checkbox"]{
     display: none;
