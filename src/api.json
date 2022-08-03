@@ -6,8 +6,17 @@
         "brand": "Nike",
         "category": "shoes",
         "price": "$1200",
-        "description": "Nike Air cushioning reduces the weight of the shoe without reducing performance. The lighter the shoe is, the less energy athletes put out during their performance. Athletes need the cushioning in their footwear to last, and Nike Air is designed to provide support throughout the life of the shoe."
+        "description": "Nike Air cushioning reduces the weight of the shoe without reducing performance. The lighter the shoe is, the less energy athletes put out during their performance. Athletes need the cushioning in their footwear to last, and Nike Air is designed to provide support throughout the life of the shoe. lighter the shoe is, the less energy athletes put out during their performance. Athletes need the cushioning in their footwear to last, and Nike Air is designed to provide support throughout the life of the shoe."
     },
+    {
+        "id":14,
+        "image": "https://international.iitkgp.ac.in/static/website/img/BrandStore/Products/Premium%20tees%20Image.jpg",
+        "name" : "Nike 2",
+        "brand": "Puma",
+        "category" : "shirt",
+        "price": "$12000",
+        "description": "Image result for puma shoes description Puma SE, branded as Puma, is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel and accessories, which is headquartered in Herzogenaurach, Bavaria, Germany. Puma is the third largest sportswear manufacturer in the world."
+    }, 
     {
         "id":2,
         "image": "https://cdn.vox-cdn.com/thumbor/qouGiDTFDkjLzuzMpc-Nj3xjO88=/0x0:2000x1196/1200x800/filters:focal(840x438:1160x758)/cdn.vox-cdn.com/uploads/chorus_image/image/70267766/a16z_rtfkt_sneakers.0.jpg",
@@ -15,7 +24,7 @@
         "brand": "Puma",
         "category" : "shoes",
         "price": "$12000",
-        "description": "Image result for puma shoes description Puma SE, branded as Puma, is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel and accessories, which is headquartered in Herzogenaurach, Bavaria, Germany. Puma is the third largest sportswear manufacturer in the world."
+        "description": "Image result for puma shoes description Puma SE, branded as Puma, is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel and accessories, which is headquartered in Herzogenaurach, Bavaria, Germany. Puma is the third largest sportswear manufacturer in the world. lighter the shoe is, the less energy athletes put out during their performance. Athletes need the cushioning in their footwear to last, and Nike Air is designed to provide support throughout the life of the shoe."
     },
     {
         "id":3,
@@ -50,15 +59,6 @@
         "name" : "Nike 2",
         "brand": "Puma",
         "category" : "shoes",
-        "price": "$12000",
-        "description": "Image result for puma shoes description Puma SE, branded as Puma, is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel and accessories, which is headquartered in Herzogenaurach, Bavaria, Germany. Puma is the third largest sportswear manufacturer in the world."
-    },
-    {
-        "id":7,
-        "image": "https://m.media-amazon.com/images/I/81q1-5edHwL._UL1500_.jpg",
-        "name" : "Nike 2",
-        "brand": "Puma",
-        "category" : "shirt",
         "price": "$12000",
         "description": "Image result for puma shoes description Puma SE, branded as Puma, is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel and accessories, which is headquartered in Herzogenaurach, Bavaria, Germany. Puma is the third largest sportswear manufacturer in the world."
     },
@@ -110,16 +110,7 @@
         "category" : "mugs",
         "price": "$12000",
         "description": "Image result for puma shoes description Puma SE, branded as Puma, is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel and accessories, which is headquartered in Herzogenaurach, Bavaria, Germany. Puma is the third largest sportswear manufacturer in the world."
-    },
-    {
-        "id":14,
-        "image": "https://international.iitkgp.ac.in/static/website/img/BrandStore/Products/Premium%20tees%20Image.jpg",
-        "name" : "Nike 2",
-        "brand": "Puma",
-        "category" : "shirt",
-        "price": "$12000",
-        "description": "Image result for puma shoes description Puma SE, branded as Puma, is a German multinational corporation that designs and manufactures athletic and casual footwear, apparel and accessories, which is headquartered in Herzogenaurach, Bavaria, Germany. Puma is the third largest sportswear manufacturer in the world."
-    },   
+    },  
     {
         "id":15,
         "image": "https://cdn.quotesgram.com/img/23/4/1846276692-funny_programming_quote_mug-rf9a202676def441f872a8cff1b11f27d_x7jgr_8byvr_324.jpg",

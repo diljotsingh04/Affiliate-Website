@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+
+
 /* Cards CSS */
 .cards{
     margin: 0 auto;
@@ -7,7 +10,7 @@
     /* grid-template-columns: repeat(3, 1fr); */
     grid-template-columns: repeat(auto-fill, minmax(293px, 1fr));
     gap: 30px;
-    margin-top: 105px;
+    margin-top: 20px;
 }
 
 .card{
@@ -49,4 +52,18 @@
     font-weight: bold;
     text-decoration: none;
     cursor: pointer;
+}
+#filItem{
+    font-family: 'Poppins', sans-serif;
+    border: 2px solid black;
+    border-radius: 7px;
+}
+
+.filItem{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-top: 26px;
+    font-size: 19px;
 }
